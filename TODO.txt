@@ -1,0 +1,23 @@
+
+
+
+
+
+undo på EndGame (boolean)
+
+
+
+
+__statistikk__
+    long pot success
+    rest success
+    average shot time
+    average frame time
+
+
+match time
+
+
+
+
+(((lagre klassen (serializable) hente match opp igjen)))
